@@ -1,0 +1,55 @@
+Merge branch 'main' of https://github.com/miikoa/wp_wp
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please run
+#	git update-ref -d MERGE_HEAD
+# and try again.
+"went back in time to before the backups were added in order to resolve issuesB
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch and 'origin/main' have diverged,
+# and have 1 and 2 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	new file:   Save and Exit the Text Editor: Save your commit message and exit the text editor. The way to save and exit depends on the text editor being used. 
+#	modified:   wp-content/plugins/akismet/_inc/akismet-admin.css
+#	modified:   wp-content/plugins/akismet/_inc/akismet-admin.js
+#	modified:   wp-content/plugins/akismet/_inc/akismet.css
+#	modified:   wp-content/plugins/akismet/_inc/akismet.js
+#	new file:   wp-content/plugins/akismet/_inc/rtl/akismet-admin-rtl.css
+#	new file:   wp-content/plugins/akismet/_inc/rtl/akismet-rtl.css
+#	modified:   wp-content/plugins/akismet/akismet.php
+#	modified:   wp-content/plugins/akismet/changelog.txt
+#	modified:   wp-content/plugins/akismet/class.akismet-admin.php
+#	modified:   wp-content/plugins/akismet/class.akismet.php
+#	modified:   wp-content/plugins/akismet/readme.txt
+#	modified:   wp-content/plugins/akismet/views/config.php
+#	modified:   wp-content/plugins/akismet/views/connect-jp.php
+#	modified:   wp-content/plugins/akismet/views/enter.php
+#	modified:   wp-content/plugins/akismet/views/notice.php
+#	modified:   wp-content/plugins/all-in-one-wp-migration/all-in-one-wp-migration.php
+#	modified:   wp-content/plugins/all-in-one-wp-migration/constants.php
+#	modified:   wp-content/plugins/all-in-one-wp-migration/lib/model/export/class-ai1wm-export-config.php
+#	modified:   wp-content/plugins/all-in-one-wp-migration/lib/model/export/class-ai1wm-export-database.php
+#	modified:   wp-content/plugins/all-in-one-wp-migration/lib/model/export/class-ai1wm-export-enumerate-tables.php
+#	modified:   wp-content/plugins/all-in-one-wp-migration/lib/model/import/class-ai1wm-import-clean.php
+#	modified:   wp-content/plugins/all-in-one-wp-migration/lib/model/import/class-ai1wm-import-database.php
+#	modified:   wp-content/plugins/all-in-one-wp-migration/lib/model/import/class-ai1wm-import-options.php
+#	modified:   wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-utility.php
+#	modified:   wp-content/plugins/all-in-one-wp-migration/lib/view/schedules/index.php
+#	modified:   wp-content/plugins/all-in-one-wp-migration/readme.txt
+#	modified:   wp-content/plugins/all-in-one-wp-migration/storage/error.log
+#	modified:   wp-content/uploads/elementor/css/post-63.css
+#	deleted:    wp-content/uploads/elementor/css/post-7.css
+#

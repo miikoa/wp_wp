@@ -30,7 +30,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 // ==================
 // = Plugin Version =
 // ==================
-define( 'AI1WMDE_VERSION', '3.77' );
+define( 'AI1WMDE_VERSION', '3.78' );
 
 // ===============
 // = Plugin Name =
@@ -81,6 +81,11 @@ define( 'AI1WMDE_REDIRECT_CREATE_URL', 'https://redirect.wp-migration.com/v1/dro
 // = Default File Chunk Size =
 // ===========================
 define( 'AI1WMDE_DEFAULT_FILE_CHUNK_SIZE', 4 * 1024 * 1024 );
+
+// ===============================
+// = Minimal Base Plugin Version =
+// ===============================
+define( 'AI1WMDE_MIN_AI1WM_VERSION', '7.79' );
 
 // ===============
 // = Purchase ID =
